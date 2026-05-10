@@ -1,0 +1,28 @@
+﻿/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Memory dumps
+*.lspd
+*.clspd
+
+# Visual Studio cache/rác
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS rác
+.DS_Store
+Thumbs.db
+
+# ĐẶC BIỆT: Chặn các file gây lỗi của bạn ban nãy
+Assets/Chess by VerzatileDev/*.png
+Assets/StreamingAssets/Stockfish/
