@@ -370,7 +370,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -867,7 +867,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1003,6 +1003,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07395775b13adad48be8d9c4a73139e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameSceneName: SampleScene
+  aiSelectSceneName: SelectLevel
 --- !u!1 &1708277419
 GameObject:
   m_ObjectHideFlags: 0
@@ -1284,7 +1286,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1418,7 +1420,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1448,6 +1450,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07395775b13adad48be8d9c4a73139e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameSceneName: SampleScene
+  aiSelectSceneName: SelectLevel
 --- !u!1 &2064846005
 GameObject:
   m_ObjectHideFlags: 0

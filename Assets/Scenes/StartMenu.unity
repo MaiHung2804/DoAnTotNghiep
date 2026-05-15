@@ -234,7 +234,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1124,7 +1124,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1154,8 +1154,6 @@ GameObject:
   - component: {fileID: 2055820883}
   - component: {fileID: 2055820882}
   - component: {fileID: 2055820881}
-  - component: {fileID: 2055820886}
-  - component: {fileID: 2055820885}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1248,34 +1246,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &2055820885
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2055820880}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07395775b13adad48be8d9c4a73139e3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gameSceneName: SampleScene
-  aiSelectSceneName: SelectLevel
---- !u!114 &2055820886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2055820880}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07395775b13adad48be8d9c4a73139e3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gameSceneName: SampleScene
-  aiSelectSceneName: SelectLevel
 --- !u!1 &2135603852
 GameObject:
   m_ObjectHideFlags: 0
@@ -1391,7 +1361,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3394920065024653024, guid: f19af7e37f9b9a3488b6c36eab81d245, type: 3}
+  m_Sprite: {fileID: 649223268058989734, guid: 97abd80b521e87441aea16b125bc610b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
